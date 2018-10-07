@@ -1,2 +1,2 @@
 # Data_Visualization
-Data Visualizations report created using Tableau, PowerBI and Excel
+Data Visualization reports created using Tableau, PowerBI and Excel
