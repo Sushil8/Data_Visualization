@@ -1,0 +1,101 @@
+rank,company,industry,revenue.millions,headquarters,state,employees,ceo,revenueChange
+1,Instacart,Services,1.00E+08,California,California,100,Apoorva Mehta,900
+2,Suja Juice,Beverages,4.20E+07,California,California,205,Jeff Church,133.33
+3,AdBoom Group,IT Software & Services,1.05E+08,California,California,72,Eric Nordyke,-5.49
+4,Precision Frac,Capital Goods,36300000,Texas,Texas,17,Jared Davis,548.21
+5,Carvana,Services,4.50E+07,Arizona,Arizona,83,Ernie Garcia Jr.,800
+6,Avant Credit Corporation,Banking,7.50E+07,Illinois,Illinois,493,Al Goldstein,971.43
+7,Panjo,Services,4.20E+07,California,California,10,Chad Billmyer,250
+8,AppLovin,IT Software & Services,9.00E+07,California,California,70,Adam Foroughi,119.51
+9,The Trade Desk,Services,2.00E+08,California,California,175,Jeff Green,142.13
+10,RocketDrop,Technology Hardware & Equip,187200000,New Hampshire,New Hampshire,15,Kamal Haddad,157.85
+11,Answers Corporation,IT Software & Services,2.45E+08,Missouri,Missouri,622,David Karandish,140.2
+12,Evolent Health,Health Care Equipment & Svcs,1.00E+08,Virginia,Virginia,735,Frank Williams,148.26
+13,Bai Brands,Beverages,48100000,New Jersey,New Jersey,163,Ben Weiss,181.29
+14,Reliant Asset Management,Business Services & Supplies,1.05E+08,Virginia,Virginia,180,Barry Roman,23.53
+15,Integral Ad Science,Media,5.00E+07,New York,New York,166,Scott Knoll,117.39
+16,HighPoint Global,Business Services & Supplies,95500000,Indiana,Indiana,208,Ben Lanius,-0.52
+17,ZOZI,Services,1.18E+08,California,California,50,TJ Sassani,926.09
+18,iCracked,Services,25200000,California,California,110,AJ Forsythe,152
+19,CardCash.com,Trading Companies,9.50E+07,New Jersey,New Jersey,120,Elliot Bohm,69.64
+20,GovSmart,Business Services & Supplies,6.90E+07,Virginia,Virginia,14,Brent Lillard,171.65
+21,4moms,Consumer Durables,48800000,Pennsylvania,Pennsylvania,175,Rob Daley,59.48
+22,Nitro Circus,Media,5.00E+07,California,California,43,Michael Porra,108.33
+23,Yodle,Business Services & Supplies,1.87E+08,New York,New York,1255,Court Cunningham,15.43
+24,"KRAVE Pure Foods, Inc","Food, Drink & Tobacco",3.60E+07,California,California,39,Jonathan Sebastiani,111.76
+25,PIRCH,Retailing,113400000,California,California,419,Jeffery Sears,95.52
+26,SeatGeek,Services,27600000,New York,New York,47,"Russ D'Souza, Jack Groetzinger",112.31
+27,Surf Air,Transportation,8900000,California,California,113,Jeff Potter,122.5
+28,ClicksMob,Business Services & Supplies,1.00E+07,New York,New York,31,Chen Levanon,900
+29,Pizza Studio,"Food, Drink & Tobacco",11100000,California,California,704,"Samit Varma, Ron Biskin",300
+30,Craftsy,Services,4.30E+07,Colorado,Colorado,221,John Levisay,86.96
+31,Rant,Media,17200000,California,California,23,Brett Rosin,102.35
+32,Hired,Business Services & Supplies,10100000,California,California,74,Matt Mickiewicz,405
+33,Big Ass Fans,Capital Goods,1.65E+08,Kentucky,Kentucky,626,Carey Smith,43.48
+34,BOSQUE SYSTEMS,Utilities,1.23E+08,Texas,Texas,582,Clane LaCrosse,51.85
+35,Thrillist,Media,9.20E+07,New York,New York,316,Ben Lerer,10.84
+36,thredUP,Trading Companies,1.90E+07,California,California,350,James Reinhart,171.43
+37,Big Time Products,Household & Personal Products,1.41E+08,Georgia,Georgia,104,HARRY S. PIERCE,31.78
+38,Applause,IT Software & Services,3.80E+07,Massachusetts,Massachusetts,200,Doron Reuveni,58.33
+39,Tapad,Business Services & Supplies,3.40E+07,New York,New York,135,Are Traasdahl,47.83
+40,CenseoHealth,Health Care Equipment & Svcs,1.63E+08,Texas,Texas,361,Bales Nelson,39.32
+41,Early Upgrade,Trading Companies,2.50E+07,Florida,Florida,14,Simon Levin,38.89
+42,Pluralsight,Business Services & Supplies,6.50E+07,Utah,Utah,291,Aaron Skonnard,124.14
+43,IEX Group,Trading Companies,2.70E+07,New York,New York,45,Brad Katsuyama,6770
+44,Slack,Business Services & Supplies,3.00E+06,California,California,81,Stewart Butterfield,NA
+45,LiveIntent,Business Services & Supplies,4.00E+07,New York,New York,138,Matt Keiser,100
+46,Y Media Labs Inc.,IT Software & Services,1.30E+07,California,California,150,Ashish Toshniwal,225
+47,ContextMedia,Health Care Equipment & Svcs,3.00E+07,Illinois,Illinois,104,Rishi Shah,87.5
+48,Box,IT Software & Services,1.24E+08,California,California,1000,Aaron Levie,110.17
+49,Progreso Financiero,Banking,1.20E+08,California,California,618,Raul Vazquez,60
+50,Q1Media,Business Services & Supplies,52400000,Texas,Texas,60,Phil Banfield,138.18
+51,Apex Fuels LLC,Oil & Gas Operations,1.51E+08,California,California,12,Gregory Cunningham,11.85
+52,VMTurbo,IT Software & Services,2.40E+07,Massachusetts,Massachusetts,254,Benjamin Nye,100
+53,Noribachi,Technology Hardware & Equip,2.30E+07,California,California,55,Farzad Dibachi,130
+54,AppDirect,Business Services & Supplies,1.80E+07,California,California,215,Daniel Saks & Nicolas Desmarais,100
+55,Sky Zone Indoor Trampoline,Services,1.67E+08,California,California,436,Jeff Platt,89.77
+56,Malwarebytes,IT Software & Services,3.20E+07,California,California,172,Marcin Kleczynski,113.33
+57,RoundTower Technologies,IT Software & Services,1.30E+08,Ohio,Ohio,136,Stephen West,44.44
+58,Phunware,Business Services & Supplies,2.30E+07,Texas,Texas,204,Alan Knitowski,4.55
+59,Petplan,Insurance,6.90E+07,Pennsylvania,Pennsylvania,140,Chris & Natasha Ashton,30.19
+60,WeddingWire,Services,4.90E+07,Maryland,Maryland,350,Timothy Chi,44.12
+61,Prosper Marketplace,Services,82800000,California,California,232,Aaron Vermut,335.79
+62,Virtustream,IT Software & Services,7.50E+07,Maryland,Maryland,300,Rodney Rogers,27.12
+63,Kabbage,Services,4.10E+07,Georgia,Georgia,144,Rob Frohwein,237.5
+64,Superfish,IT Software & Services,3.80E+07,California,California,78,Adi Pinhas,8.57
+65,Yext,IT Software & Services,57800000,New York,New York,320,Howard Lerman,71.01
+66,ALKU,Business Services & Supplies,69295057,Massachusetts,Massachusetts,65,Mark Eldridge,81.53
+67,SevOne,IT Software & Services,64442000,Delaware,Delaware,404,Jack Sweeney,64.04
+68,Saatva,Consumer Durables,26881845,Connecticut,Connecticut,67,Ron Rudzin,217.99
+69,CPXi,Multicompany,1.16E+08,New York,New York,153,Mike Seiman,4.14
+70,Modernizing Medicine,Health Care Equipment & Svcs,3.00E+07,Florida,Florida,215,Daniel Cane,73.29
+71,Collective Bias,Media,21300000,Arkansas,Arkansas,104,Bill Sussman,33.13
+72,Pangea Properties,Services,6.90E+07,Illinois,Illinois,444,Steve Joung,38
+73,YapStone,Business Services & Supplies,1.20E+08,California,California,270,Tom Villante,36.36
+74,TeleSign,IT Software & Services,74700000,California,California,250,Steve Jillings,55.95
+75,Spokeo,Services,5.70E+07,California,California,150,Harrison Tang,42.5
+76,Magnetic,Business Services & Supplies,4.60E+07,New York,New York,145,James Green,48.39
+77,Business Talent Group,Business Services & Supplies,3.00E+07,California,California,78,Jody Miller,66.67
+78,CarGurus,Services,4.00E+07,Massachusetts,Massachusetts,103,Langley Steinert,81.82
+79,Yellowhammer Media Group Inc.,Business Services & Supplies,4.90E+07,New York,New York,43,Joe Hirsch,134.45
+80,Code42,IT Software & Services,6.50E+07,Minnesota,Minnesota,426,Matthew Dornquast,71.05
+81,Accordant Media,Business Services & Supplies,42200000,New York,New York,57,"Arthur F. Muldoon, Jr.",56.3
+82,TeleWorld Solutions,Telecommunications Services,3.10E+07,Virginia,Virginia,315,Shervin Gerami,71.74
+83,OneSource Virtual,Business Services & Supplies,6.30E+07,Texas,Texas,491,Brian Williams,72.13
+84,Smule,Services,38300000,California,California,98,Jeffrey Smith,78.97
+85,Shoptiques,Retailing,3.00E+06,New York,New York,15,Olga Vidisheva,706.45
+86,Print Syndicate,Services,12200000,Ohio,Ohio,104,Tanisha Robinson,197.56
+87,CrowdStrike,IT Software & Services,13800000,California,California,160,George Kurtz,141.77
+88,Guidespark,IT Software & Services,10300000,California,California,174,Keith Kitani,151.22
+89,HighJump Software,Business Services & Supplies,1.40E+08,Minnesota,Minnesota,762,Michael Cornell,278.38
+90,TripleLift,Business Services & Supplies,7.00E+06,New York,New York,36,Eric Berry,600
+91,Combatant Gentlemen,Retailing,10070341,California,California,26,Vishaal Melwani,129.43
+92,Pixelberry Studios,Media,8785471,California,California,40,Oliver Miao,139.21
+93,nCino,Banking,5965030,North Carolina,North Carolina,102,Pierre Naudé,200.95
+94,Signpost,Business Services & Supplies,7.00E+06,New York,New York,200,Stuart Wall,112.12
+95,Contently,Media,7500000,New York,New York,NA,Joe Coleman,74.42
+96,Localytics,Business Services & Supplies,1.00E+07,Massachusetts,Massachusetts,150,Raj Aggarwal,150
+97,PK4 Media,Media,1.40E+07,California,California,31,Tom Alexander,100
+98,Emailage Corp,IT Software & Services,1528608,Arizona,Arizona,14,Rei Carvalho,118.37
+99,9Round - 30 Minute Kickbox Fitness,Services,4300000,South Carolina,South Carolina,14,Shannon Hudson,126.32
+100,Votto Vines Importing Inc.,Food Markets,6.00E+06,Connecticut,Connecticut,9,Michael Votto,50

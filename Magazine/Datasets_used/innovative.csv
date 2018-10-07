@@ -1,0 +1,101 @@
+rank,company,industry,country,pct.sales_growth,innovation_premium,headquarters,region
+1,ServiceNow,Software & Services,United States,0.3902,0.8922,NA,North America
+2,Workday,Software & Services,United States,0.3607,0.8284,NA,North America
+3,Salesforce.com,Software & Services,United States,0.2488,0.8227,NA,North America
+4,Tesla,Automobiles & Components,United States,0.6798,0.7827,NA,North America
+5,Amazon.com,Retailing,United States,0.308,0.774,NA,North America
+6,Netflix,Retailing,United States,0.3241,0.7123,NA,North America
+7,Incyte,"Pharmaceuticals, Biotechnology & Life Sciences",United States,0.3893,0.7059,NA,North America
+8,Hindustan Unilever,Household & Personal Products,India,0.1149,0.672,India,Central Asia
+9,Naver,Software & Services,South Korea,0.1936,0.6462,South Korea,Pacific Rim
+10,Facebook,Software & Services,United States,0.4709,0.6442,NA,North America
+11,Monster Beverage,"Food, Beverage & Tobacco",United States,0.1067,0.6426,NA,North America
+12,Unilever Indonesia,Household & Personal Products,Indonesia,0.0225,0.6391,Indonesia,Pacific Rim
+13,Adobe Systems,Software & Services,United States,0.2456,0.6238,NA,North America
+14,Celltrion,"Pharmaceuticals, Biotechnology & Life Sciences",South Korea,0.4525,0.623,South Korea,Pacific Rim
+15,Autodesk,Software & Services,United States,0.0133,0.6204,NA,North America
+16,Regeneron Pharmaceuticals,"Pharmaceuticals, Biotechnology & Life Sciences",United States,0.2082,0.6111,NA,North America
+17,Vertex Pharmaceuticals,"Pharmaceuticals, Biotechnology & Life Sciences",United States,0.462,0.6093,NA,North America
+18,Amorepacific,Household & Personal Products,South Korea,-0.0686,0.6081,South Korea,Pacific Rim
+19,AmerisourceBergen,Health Care Equipment & Services,United States,0.0429,0.5869,NA,North America
+20,Illumina,"Pharmaceuticals, Biotechnology & Life Sciences",United States,0.1474,0.5833,NA,North America
+21,Marriott International,Consumer Services,United States,0.341,0.5815,NA,North America
+22,Alexion Pharmaceuticals,"Pharmaceuticals, Biotechnology & Life Sciences",United States,0.1732,0.5804,NA,North America
+23,CP All,Food & Staples Retailing,Thailand,0.1267,0.5732,Thailand,Pacific Rim
+24,Red Hat,Software & Services,United States,0.2109,0.5693,NA,North America
+25,Tencent Holdings,Software & Services,China,0.5383,0.5677,China,Pacific Rim
+26,FleetCor Technologies,Software & Services,United States,0.2282,0.565,NA,North America
+27,LG Household & Health Care,Household & Personal Products,South Korea,0.056,0.5526,South Korea,Pacific Rim
+28,Ctrip.com International,Retailing,China,0.3718,0.5355,China,Pacific Rim
+29,Hermès International,Consumer Durables & Apparel,France,0.0877,0.5238,France,Western Europe
+30,Starbucks,Consumer Services,United States,0.0503,0.5077,NA,North America
+31,Align Technology,Health Care Equipment & Services,United States,0.3644,0.5058,NA,North America
+32,Fast Retailing,Retailing,Japan,0.0675,0.5057,Japan,Pacific Rim
+33,Ihs Markit,Commercial  & Professional Services,United Kingdom,0.3163,0.504,United Kingdom,Western Europe
+34,Expedia,Retailing,United States,0.1466,0.4982,NA,North America
+35,Sirius XM Radio,Media,United States,0.0813,0.489,NA,North America
+36,Visa,Software & Services,United States,0.2172,0.4844,NA,North America
+37,Anheuser-Busch InBev,"Food, Beverage & Tobacco",Belgium,0.2401,0.4764,Belgium,Western Europe
+38,Keyence,Technology Hardware & Equipment,Japan,0.2473,0.475,Japan,Pacific Rim
+39,Bard,Health Care Equipment & Services,United States,NA,0.468,NA,North America
+40,Oriental Land,Consumer Services,Japan,-0.0198,0.4628,Japan,Pacific Rim
+41,Molson Coors Brewing,"Food, Beverage & Tobacco",United States,1.2524,0.4607,NA,North America
+42,Booking Holdings,Retailing,United States,0.1804,0.4535,NA,North America
+43,China Molybdenum,Materials,China,2.4824,0.4527,China,Pacific Rim
+44,Intuitive Surgical,Health Care Equipment & Services,United States,0.1584,0.4518,NA,North America
+45,Baidu,Software & Services,China,0.1817,0.4515,China,Pacific Rim
+46,Mastercard,Software & Services,United States,0.1597,0.4431,NA,North America
+47,Falabella,Retailing,Chile,0.0881,0.4409,Chile,South America
+48,Dassault Systemes,Software & Services,France,0.0772,0.4376,France,Western Europe
+49,General Mills,"Food, Beverage & Tobacco",United States,-0.057,0.4328,NA,North America
+49,Roper Technologies,Capital Goods,United States,0.2157,0.4328,NA,North America
+51,Intuit,Software & Services,United States,0.1029,0.4317,NA,North America
+52,Essilor International,Health Care Equipment & Services,France,0.0734,0.4316,France,Western Europe
+53,Coca-Cola,"Food, Beverage & Tobacco",United States,-0.1538,0.4273,NA,North America
+54,Inditex,Retailing,Spain,0.123,0.4264,Spain,Western Europe
+55,Edwards Lifesciences,Health Care Equipment & Services,United States,0.1591,0.4213,NA,North America
+56,Reckitt Benckiser Group,Household & Personal Products,United Kingdom,0.159,0.4183,United Kingdom,Western Europe
+57,Experian,Commercial  & Professional Services,Ireland,0.0754,0.418,Ireland,Western Europe
+58,Constellation Brands,"Food, Beverage & Tobacco",United States,0.0349,0.4175,NA,North America
+59,Kone,Capital Goods,Finland,0.038,0.417,Finland,Western Europe
+60,Brown-Forman,"Food, Beverage & Tobacco",United States,-0.0251,0.4169,NA,North America
+61,Luxottica Group,Consumer Durables & Apparel,Italy,0.0277,0.4154,Italy,Western Europe
+62,Mondelez International,"Food, Beverage & Tobacco",United States,-0.001,0.4128,NA,North America
+63,Compass Group,Consumer Services,United Kingdom,0.0275,0.4125,United Kingdom,Western Europe
+64,Jiangsu Hengrui Medicine,"Pharmaceuticals, Biotechnology & Life Sciences",China,0.2259,0.4112,China,Pacific Rim
+65,Boston Scientific,Health Care Equipment & Services,United States,0.0789,0.4096,NA,North America
+65,Procter & Gamble,Household & Personal Products,United States,-0.0037,0.4096,NA,North America
+67,PepsiCo,"Food, Beverage & Tobacco",United States,0.0115,0.4074,NA,North America
+68,Cerner,Health Care Equipment & Services,United States,0.0721,0.4056,NA,North America
+69,Yahoo Japan,Software & Services,Japan,0.0268,0.4038,Japan,Pacific Rim
+70,Unilever,Household & Personal Products,Netherlands,0.039,0.3962,Netherlands,Western Europe
+71,Colgate-Palmolive,Household & Personal Products,United States,0.017,0.3961,NA,North America
+72,Sodexo,Consumer Services,France,0.0113,0.3959,France,Western Europe
+72,United Parcel Service,Transportation,United States,0.0882,0.3959,NA,North America
+74,Cielo,Software & Services,Brazil,0.0297,0.3916,Brazil,South America
+75,ASML Holding,Semiconductors & Semiconductor Equipment,Netherlands,0.3585,0.3908,Netherlands,Western Europe
+76,Paychex,Software & Services,United States,0.0675,0.3855,NA,North America
+77,Clorox,Household & Personal Products,United States,0.0368,0.3822,NA,North America
+78,Assa Abloy,Capital Goods,Sweden,0.0703,0.3814,Sweden,Western Europe
+79,Alphabet,Software & Services,United States,0.2373,0.3791,NA,North America
+80,Nidec,Capital Goods,Japan,0.2123,0.3777,Japan,Pacific Rim
+81,Fanuc,Capital Goods,Japan,0.3221,0.3767,Japan,Pacific Rim
+82,Allergan,"Pharmaceuticals, Biotechnology & Life Sciences",Ireland,0.094,0.3759,Ireland,Western Europe
+83,Hershey,"Food, Beverage & Tobacco",United States,0.0101,0.3756,NA,North America
+84,Waste Connections,Commercial  & Professional Services,Canada,0.3716,0.3699,Canada,North America
+85,RELX Group,Commercial  & Professional Services,United Kingdom,0.0181,0.369,United Kingdom,Western Europe
+86,Larsen & Toubro,Capital Goods,India,0.1408,0.3688,India,Central Asia
+87,Shiseido,Household & Personal Products,Japan,0.1454,0.3676,Japan,Pacific Rim
+88,Kellogg,"Food, Beverage & Tobacco",United States,-0.0065,0.3658,NA,North America
+89,Republic Services,Commercial  & Professional Services,United States,0.0699,0.365,NA,North America
+90,Hangzhou Hikvision Digital Technology,Technology Hardware & Equipment,China,0.2888,0.3616,China,Pacific Rim
+91,China Shipbuilding Industry,Capital Goods,China,-0.2699,0.3609,China,Pacific Rim
+92,Bharti Airtel,Telecommunication Services,India,-0.0882,0.3595,India,Central Asia
+93,Ecolab,Materials,United States,0.0521,0.3587,NA,North America
+94,L'Oréal Group,Household & Personal Products,France,0.065,0.3577,France,Western Europe
+95,NXP Semiconductors,Semiconductors & Semiconductor Equipment,Netherlands,-0.0255,0.3566,Netherlands,Western Europe
+96,Sun Pharmaceuticals Industries,"Pharmaceuticals, Biotechnology & Life Sciences",India,-0.1199,0.3564,India,Central Asia
+97,The Estée Lauder Companies,Household & Personal Products,United States,0.0499,0.3553,NA,North America
+98,Diageo,"Food, Beverage & Tobacco",United Kingdom,-0.0163,0.3518,United Kingdom,Western Europe
+99,Maruti Suzuki India,Automobiles & Components,India,0.22,0.3508,India,Central Asia
+100,Norilsk Nickel,Materials,Russia,0.1074,0.3492,Russia,Eastern Europe

@@ -1,0 +1,501 @@
+rank,company,headquarters,state,subtype,industries
+1,Michelin Group,"Greenville, South Carolina",South Carolina,company,Automotive (Automotive and Suppliers)
+2,Trader Joe's,"Monrovia, California",California,company,Retail and Wholesale
+3,Google,"Mountain View, California",California,company,"IT, Internet, Software & Services"
+4,Principal Financial Group,"Des Moines, Iowa",Iowa,company,Banking and Financial Services
+5,Costco Wholesale,"Issaquah, Washington",Washington,company,Retail and Wholesale
+6,Penn Medicine,"Philadelphia, Pennsylvania",Pennsylvania,company,Healthcare & Social
+7,NRG Energy,"Princeton, New Jersey",New Jersey,company,Utilities
+8,Wegmans Food Markets,"Rochester, New York",New York,company,Retail and Wholesale
+9,Harvard University,"Cambridge, Massachusetts",Massachusetts,college,Education
+10,Navy Federal Credit Union,"Vienna, Virginia",Virginia,company,Banking and Financial Services
+11,United Services Automobile Association,"San Antonio, Texas",Texas,company,Insurance
+12,Jack Henry & Associates,"Monett, Missouri",Missouri,company,"IT, Internet, Software & Services"
+13,Southwest Airlines,"Dallas, Texas",Texas,company,Transportation and Logistics
+14,Mayo Clinic,"Rochester, Minnesota",Minnesota,company,Healthcare & Social
+15,Stanford University,"Stanford, California",California,college,Education
+16,Lululemon Athletica,Vancouver,NA,company,"Clothing, Shoes, Sports Equipment"
+17,Southern Company,"Atlanta, Georgia",Georgia,company,Utilities
+18,Duke University,"Durham, North Carolina",North Carolina,college,Education
+19,SAP,"Newtown Square, Pennsylvania",Pennsylvania,company,"IT, Internet, Software & Services"
+20,Mastercard,"Purchase, New York",New York,company,Banking and Financial Services
+21,VMware,"Palo Alto, California",California,company,"IT, Internet, Software & Services"
+22,Genentech,"San Francisco, California",California,company,Drugs & Biotechnology
+23,World Bank Group,"Washington, District of Columbia",District of Columbia,company,Banking and Financial Services
+24,HDR,"Omaha, Nebraska",Nebraska,company,"Construction, Oil & Gas Operations, Mining and Chemicals"
+25,Microsoft,"Redmond, Washington",Washington,company,"IT, Internet, Software & Services"
+26,REI,"Kent, Washington",Washington,company,"Clothing, Shoes, Sports Equipment"
+27,MD Anderson Cancer Center,"Houston, Texas",Texas,company,Healthcare & Social
+28,Michigan State University,"East Lansing, Michigan",Michigan,college,Education
+29,Howard County Public Schools,"Ellicott City, Maryland",Maryland,company,Education
+30,John Hancock Financial,"Boston, Massachusetts",Massachusetts,company,Banking and Financial Services
+31,Facebook,"Menlo Park, California",California,company,"IT, Internet, Software & Services"
+32,Salesforce.com,"San Francisco, California",California,company,"IT, Internet, Software & Services"
+33,JetBlue Airways,"Long Island City, New York",New York,company,Transportation and Logistics
+34,Boscov's,"Reading, Pennsylvania",Pennsylvania,company,Retail and Wholesale
+35,University of Utah Health Care,"Salt Lake City, Utah",Utah,company,Healthcare & Social
+36,VSP Global,"Rancho Cordova, California",California,company,Insurance
+37,Garmin,"Olathe, Kansas",Kansas,company,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+38,Publix Super Markets,"Lakeland, Florida",Florida,company,Retail and Wholesale
+39,Emory University,"Atlanta, Georgia",Georgia,college,Education
+40,University of North Texas,"Denton, Texas",Texas,college,Education
+41,Ingersoll Rand,"Davidson, North Carolina",North Carolina,company,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+42,Sheetz,"Altoona, Pennsylvania",Pennsylvania,company,Retail and Wholesale
+43,Consumers Energy,"Jackson, Michigan",Michigan,company,Utilities
+44,Amgen,"Thousand Oaks, California",California,company,Drugs & Biotechnology
+45,Montgomery County Public Schools,"Rockville, Maryland",Maryland,company,Education
+46,OSF HealthCare,"Peoria, Illinois",Illinois,company,Healthcare & Social
+47,New Hanover Regional Medical Center,"Wilmington, North Carolina",North Carolina,company,Healthcare & Social
+48,University of Iowa Hospitals & Clinics,"Iowa City, Iowa",Iowa,company,Healthcare & Social
+49,UCSF Medical Center,"San Francisco, California",California,company,Healthcare & Social
+50,Memorial Sloan Kettering Cancer Center,"New York, New York",New York,company,Healthcare & Social
+51,General Mills,"Minneapolis, Minnesota",Minnesota,company,"Food, Soft Beverages, Alcohol & Tobacco"
+52,SC Johnson,"Racine, Wisconsin",Wisconsin,company,Packaged Goods
+53,H-E-B Grocery Stores,"San Antonio, Texas",Texas,company,Retail and Wholesale
+54,Apple,"Cupertino, California",California,company,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+55,University of Miami,"Coral Gables, Florida",Florida,college,Education
+56,Keller Williams Realty,"Austin, Texas",Texas,company,Business Services & Supplies
+57,Lilly,"Indianapolis, Indiana",Indiana,company,Drugs & Biotechnology
+58,Raymond James Financial,"St. Petersburg, Florida",Florida,company,Banking and Financial Services
+59,Johnson & Johnson,"New Brunswick, New Jersey",New Jersey,company,Drugs & Biotechnology
+60,Energy Transfer,"Dallas, Texas",Texas,company,"Construction, Oil & Gas Operations, Mining and Chemicals"
+61,New York-Presbyterian Hospital,"New York, New York",New York,company,Healthcare & Social
+62,Cornell University,"Ithaca, New York",New York,college,Education
+63,LUSH Fresh Handmade Cosmetics,NA,NA,company,Retail and Wholesale
+64,HonorHealth,"Scottsdale, Arizona",Arizona,company,Healthcare & Social
+65,Old Republic International,"Chicago, Illinois",Illinois,company,Insurance
+66,University of Virginia,"Charlottesville, Virginia",Virginia,college,Education
+67,University of South Carolina,"Columbia, South Carolina",South Carolina,college,Education
+68,Kwik Trip/Kwik Star,"La Crosse, Wisconsin",Wisconsin,company,Retail and Wholesale
+69,Jet Propulsion Laboratory,"Pasadena, California",California,company,Aerospace & Defense
+70,ComEd,"Chicago, Illinois",Illinois,company,Utilities
+71,Roche Holding,"South San Francisco, California",California,company,Drugs & Biotechnology
+72,Penske Logistics,"Reading, Pennsylvania",Pennsylvania,company,Transportation and Logistics
+73,Siemens,"Washington, District of Columbia",District of Columbia,company,"Engineering, Manufacturing"
+74,Intuit,"Mountain View, California",California,company,"IT, Internet, Software & Services"
+75,Dentsply Sirona,"York, Pennsylvania",Pennsylvania,company,Health Care Equipment & Services
+76,MGM Resorts,"Las Vegas, Nevada",Nevada,company,Travel & Leisure
+77,Procter & Gamble,"Cincinnati, Ohio",Ohio,company,Packaged Goods
+78,AbbVie,"North Chicago, Illinois",Illinois,company,Drugs & Biotechnology
+79,Dominion Energy,"Richmond, Virginia",Virginia,company,Utilities
+80,Tesla,"Palo Alto, California",California,company,Automotive (Automotive and Suppliers)
+81,LinkedIn,"Mountain View, California",California,company,"IT, Internet, Software & Services"
+82,Schneider Electric,"Andover, Massachusetts",Massachusetts,company,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+83,New York City Fire Department,"Brooklyn, New York",New York,company,Government Services
+84,Neiman Marcus Group,"Dallas, Texas",Texas,company,"Clothing, Shoes, Sports Equipment"
+85,Legacy Health,"Portland, Oregon",Oregon,company,Healthcare & Social
+86,Fort Bend ISD,"Sugar Land, Texas",Texas,company,Education
+87,Daimler,"Atlanta, Georgia",Georgia,company,Automotive (Automotive and Suppliers)
+88,Freeport-McMoRan,"Phoenix, Arizona",Arizona,company,"Construction, Oil & Gas Operations, Mining and Chemicals"
+89,Northern Trust,"Chicago, Illinois",Illinois,company,Banking and Financial Services
+90,Scheels All Sports,"Fargo, North Dakota",North Dakota,company,"Clothing, Shoes, Sports Equipment"
+91,University of Maryland Medical Center,"Baltimore, Maryland",Maryland,company,Healthcare & Social
+92,Black & Veatch,"Overland Park, Kansas",Kansas,company,"Construction, Oil & Gas Operations, Mining and Chemicals"
+93,Parkview Health,"Fort Wayne, Indiana",Indiana,company,Healthcare & Social
+94,Choctaw Casinos & Resorts,"Durant, Oklahoma",Oklahoma,company,Travel & Leisure
+95,Norton Healthcare,"Louisville, Kentucky",Kentucky,company,Healthcare & Social
+96,Kimberly-Clark,"Dallas, Texas",Texas,company,Packaged Goods
+97,Cisco Systems,"San Jose, California",California,company,"IT, Internet, Software & Services"
+98,Boston Scientific,"Marlborough, Massachusetts",Massachusetts,company,Health Care Equipment & Services
+99,Fidelity Investments,"Boston, Massachusetts",Massachusetts,company,Banking and Financial Services
+100,U.S. Agency for International Development,"Washington, District of Columbia",District of Columbia,company,Government Services
+101,In-N-Out Burger,"Irvine, California",California,company,Restaurants
+102,NextEra Energy,"Juno Beach, Florida",Florida,company,Utilities
+103,Scholastic,"New York, New York",New York,company,Media & Advertising
+104,Sephora,"San Francisco, California",California,company,Retail and Wholesale
+105,NiSource,"Merrillville, Indiana",Indiana,company,Utilities
+106,Duke Energy,"Charlotte, North Carolina",North Carolina,company,Utilities
+107,Total,"Houston, Texas",Texas,company,"Construction, Oil & Gas Operations, Mining and Chemicals"
+108,NASA,"Washington, District of Columbia",District of Columbia,company,Government Services
+109,Stryker,"Kalamazoo, Michigan",Michigan,company,Health Care Equipment & Services
+110,Old Chicago Pizza and Taproom,"Broomfield, Colorado",Colorado,company,Restaurants
+111,Qualcomm,"San Diego, California",California,company,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+112,Volvo Group,"Rockleigh, New Jersey",New Jersey,company,Automotive (Automotive and Suppliers)
+113,Nationwide Children's Hospital,"Columbus, Ohio",Ohio,company,Healthcare & Social
+114,Northrop Grumman,"Falls Church, Virginia",Virginia,company,Aerospace & Defense
+115,"University of Nebraska, Lincoln","Lincoln, Nebraska",Nebraska,college,Education
+116,ESS,"Cherry Hill, New Jersey",New Jersey,company,Business Services & Supplies
+117,Bloomberg,"New York, New York",New York,company,Media & Advertising
+118,Corning,"Corning, New York",New York,company,"Engineering, Manufacturing"
+119,Eddie Bauer,"Bellevue, Washington",Washington,company,"Clothing, Shoes, Sports Equipment"
+120,Edward Jones,"Des Peres, Missouri",Missouri,company,Banking and Financial Services
+121,Smithsonian Institution,"Washington, District of Columbia",District of Columbia,company,Travel & Leisure
+122,Texas Health Resources,"Arlington, Texas",Texas,company,Healthcare & Social
+123,Emerson Electric,"St. Louis, Missouri",Missouri,company,"Engineering, Manufacturing"
+124,Philips Healthcare,"Andover, Massachusetts",Massachusetts,company,Health Care Equipment & Services
+125,3M,"St. Paul, Minnesota",Minnesota,company,Packaged Goods
+126,Wawa,"Wawa, Pennsylvania",Pennsylvania,company,Retail and Wholesale
+127,Williams,"Tulsa, Oklahoma",Oklahoma,company,"Construction, Oil & Gas Operations, Mining and Chemicals"
+128,Omnicom Group,"New York, New York",New York,company,Media & Advertising
+129,Boeing,"Chicago, Illinois",Illinois,company,Aerospace & Defense
+130,Washington University in Saint Louis,"St. Louis, Missouri",Missouri,college,Education
+131,Cincinnati Children's,"Cincinnati, Ohio",Ohio,company,Healthcare & Social
+132,Cummins,"Columbus, Indiana",Indiana,company,"Engineering, Manufacturing"
+133,County of Los Angeles,"Los Angeles, California",California,company,Government Services
+134,ArcelorMittal,"Chicago, Illinois",Illinois,company,"Engineering, Manufacturing"
+135,"University of Minnesota, Twin Cities","Minneapolis, Minnesota",Minnesota,college,Education
+136,PPL,"Allentown, Pennsylvania",Pennsylvania,company,Utilities
+137,CDW,"Vernon Hills, Illinois",Illinois,company,Business Services & Supplies
+138,Hilton,"McLean, Virginia",Virginia,company,Travel & Leisure
+139,Alaska Airlines,"Seattle, Washington",Washington,company,Transportation and Logistics
+140,Walt Disney,"Burbank, California",California,company,Media & Advertising
+141,MUSC Health,"Charleston, South Carolina",South Carolina,company,Healthcare & Social
+142,Vanguard,"Valley Forge, Pennsylvania",Pennsylvania,company,Banking and Financial Services
+143,Land O'Lakes,"Arden Hills, Minnesota",Minnesota,company,"Food, Soft Beverages, Alcohol & Tobacco"
+144,Northside Independent School District,"San Antonio, Texas",Texas,company,Education
+145,Oregon Health & Science University,"Portland, Oregon",Oregon,company,Education
+146,UC Davis Health System,"Sacramento, California",California,company,Healthcare & Social
+147,Four Seasons Hotels and Resorts,Toronto,NA,company,Travel & Leisure
+148,CarMax,"Richmond, Virginia",Virginia,company,Retail and Wholesale
+149,WL Gore & Associates,"Newark, Delaware",Delaware,company,"Engineering, Manufacturing"
+150,Icahn School of Medicine at Mount Sinai,"New York, New York",New York,company,Education
+151,Hallmark Cards,"Kansas City, Missouri",Missouri,company,Packaged Goods
+152,"SUNY, Stony Brook (Stony Brook University)","Stony Brook, New York",New York,college,Education
+153,loanDepot.com,"Foothill Ranch, California",California,company,Banking and Financial Services
+154,Nike,"Beaverton, Oregon",Oregon,company,"Clothing, Shoes, Sports Equipment"
+155,Delta Air Lines,"Atlanta, Georgia",Georgia,company,Transportation and Logistics
+156,Rockwell Automation,"Milwaukee, Wisconsin",Wisconsin,company,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+157,Bayer,"Whippany, New Jersey",New Jersey,company,Drugs & Biotechnology
+158,Raytheon,"Waltham, Massachusetts",Massachusetts,company,Aerospace & Defense
+159,Expedia,"Bellevue, Washington",Washington,company,Travel & Leisure
+160,Turner Industries Group,"Baton Rouge, Louisiana",Louisiana,company,"Construction, Oil & Gas Operations, Mining and Chemicals"
+161,Turner Corp,"New York, New York",New York,company,"Construction, Oil & Gas Operations, Mining and Chemicals"
+162,Whole Foods Market,"Austin, Texas",Texas,company,Retail and Wholesale
+163,University of Michigan Health System,"Ann Arbor, Michigan",Michigan,company,Healthcare & Social
+164,Vanderbilt University,"Nashville, Tennessee",Tennessee,college,Education
+165,QuikTrip,"Tulsa, Oklahoma",Oklahoma,company,Retail and Wholesale
+166,Iowa State University,"Ames, Iowa",Iowa,college,Education
+167,Ford Motor,"Dearborn, Michigan",Michigan,company,Automotive (Automotive and Suppliers)
+168,Northwestern Medicine,"Chicago, Illinois",Illinois,company,Healthcare & Social
+169,Adobe Systems,"San Jose, California",California,company,"IT, Internet, Software & Services"
+170,AstraZeneca,"Wilmington, Delaware",Delaware,company,Drugs & Biotechnology
+171,North East Independent School District,"San Antonio, Texas",Texas,company,Education
+172,The Children's Hospital of Philadelphia,"Philadelphia, Pennsylvania",Pennsylvania,company,Healthcare & Social
+173,Saputo Cheese,"Lincolnshire, Illinois",Illinois,company,"Food, Soft Beverages, Alcohol & Tobacco"
+174,Intel,"Santa Clara, California",California,company,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+175,Plano Independent School District,"Plano, Texas",Texas,company,Education
+176,Con Edison,"New York, New York",New York,company,Utilities
+177,Sentara Healthcare,"Norfolk, Virginia",Virginia,company,Healthcare & Social
+178,Gwinnett County Public Schools (GCPS),"Suwanee, Georgia",Georgia,company,Education
+179,Starbucks,"Seattle, Washington",Washington,company,Restaurants
+180,Jabil Circuit,"St. Petersburg, Florida",Florida,company,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+181,Tampa General Hospital,"Tampa, Florida",Florida,company,Healthcare & Social
+182,Olin,"Clayton, Missouri",Missouri,company,"Construction, Oil & Gas Operations, Mining and Chemicals"
+183,Navient,"Wilmington, Delaware",Delaware,company,Banking and Financial Services
+184,Burns & McDonnell Engineering,"Kansas City, Missouri",Missouri,company,"Construction, Oil & Gas Operations, Mining and Chemicals"
+185,Orange County,"Santa Ana, California",California,company,Government Services
+186,Hyatt Hotels,"Chicago, Illinois",Illinois,company,Travel & Leisure
+187,Reyes Holdings,"Rosemont, Illinois",Illinois,company,"Food, Soft Beverages, Alcohol & Tobacco"
+188,Abbott Laboratories,"Abbott Park, Illinois",Illinois,company,Health Care Equipment & Services
+189,Salt River Project,"Tempe, Arizona",Arizona,company,Utilities
+190,Smith & Nephew,"Memphis, Tennessee",Tennessee,company,Health Care Equipment & Services
+191,Analog Devices,"Norwood, Massachusetts",Massachusetts,company,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+192,Juniper Networks,"Sunnyvale, California",California,company,"IT, Internet, Software & Services"
+193,Marathon Petroleum,"Findlay, Ohio",Ohio,company,"Construction, Oil & Gas Operations, Mining and Chemicals"
+194,Unilever,"Englewood Cliffs, New Jersey",New Jersey,company,Packaged Goods
+195,Activision Blizzard,"Santa Monica, California",California,company,"IT, Internet, Software & Services"
+196,BNSF Railway,"Fort Worth, Texas",Texas,company,Transportation and Logistics
+197,American Electric Power,"Columbus, Ohio",Ohio,company,Utilities
+198,Texas Instruments,"Dallas, Texas",Texas,company,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+199,Gartner,"Stamford, Connecticut",Connecticut,company,Professional Services
+200,ICON,"North Wales, Pennsylvania",Pennsylvania,company,Drugs & Biotechnology
+201,Takeda Pharmaceutical,"Deerfield, Illinois",Illinois,company,Drugs & Biotechnology
+202,E. & J. Gallo Winery,"Modesto, California",California,company,"Food, Soft Beverages, Alcohol & Tobacco"
+203,State of Idaho,"Boise, Idaho",Idaho,company,Government Services
+204,Skanska,"New York, New York",New York,company,"Construction, Oil & Gas Operations, Mining and Chemicals"
+205,Clayton Homes,"Maryville, Tennessee",Tennessee,company,"Engineering, Manufacturing"
+206,General Motors,"Detroit, Michigan",Michigan,company,Automotive (Automotive and Suppliers)
+207,Toyota USA,"Plano, Texas",Texas,company,Automotive (Automotive and Suppliers)
+208,Levy,"Chicago, Illinois",Illinois,company,Restaurants
+209,It Works,"Lawrenceville, Georgia",Georgia,company,Packaged Goods
+210,Discover Financial Services,"Riverwoods, Illinois",Illinois,company,Banking and Financial Services
+211,ALDI,"Batavia, Illinois",Illinois,company,Retail and Wholesale
+212,American Family Insurance,"Madison, Wisconsin",Wisconsin,company,Insurance
+213,Blue Cross & Blue Shield of Michigan,"Detroit, Michigan",Michigan,company,Insurance
+214,Tuesday Morning,"Dallas, Texas",Texas,company,Retail and Wholesale
+215,Charles Schwab,"San Francisco, California",California,company,Banking and Financial Services
+216,Marriott International,"Bethesda, Maryland",Maryland,company,Travel & Leisure
+217,NetApp,"Sunnyvale, California",California,company,"IT, Internet, Software & Services"
+218,Sysco,"Houston, Texas",Texas,company,"Food, Soft Beverages, Alcohol & Tobacco"
+219,Honda Motor,"Torrance, California",California,company,Automotive (Automotive and Suppliers)
+220,Anthem,"Indianapolis, Indiana",Indiana,company,Insurance
+221,SAIC,"McLean, Virginia",Virginia,company,Business Services & Supplies
+222,Medtronic,"Minneapolis, Minnesota",Minnesota,company,Health Care Equipment & Services
+223,Kimpton Hotels & Restaurants,"San Francisco, California",California,company,Travel & Leisure
+224,KIA Motors,"Irvine, California",California,company,Automotive (Automotive and Suppliers)
+225,Northwestern Mutual,"Milwaukee, Wisconsin",Wisconsin,company,Insurance
+226,City and County of San Francisco,"San Francisco, California",California,company,Government Services
+227,Chevron,"San Ramon, California",California,company,"Construction, Oil & Gas Operations, Mining and Chemicals"
+228,Mars,"McLean, Virginia",Virginia,company,"Food, Soft Beverages, Alcohol & Tobacco"
+229,Los Angeles Department of Water and Power (LADWP),"Los Angeles, California",California,company,Government Services
+230,State of Tennessee,"Nashville, Tennessee",Tennessee,company,Government Services
+231,Daymon,"Stamford, Connecticut",Connecticut,company,Professional Services
+232,Eastman Chemical,"Kingsport, Tennessee",Tennessee,company,"Construction, Oil & Gas Operations, Mining and Chemicals"
+233,Warner Bros. Entertainment,"Burbank, California",California,company,Media & Advertising
+234,Norfolk Southern,"Norfolk, Virginia",Virginia,company,Transportation and Logistics
+235,People's United Bank,"Bridgeport, Connecticut",Connecticut,company,Banking and Financial Services
+236,Columbia Sportswear,"Portland, Oregon",Oregon,company,"Clothing, Shoes, Sports Equipment"
+237,DowDuPont,"Midland, Michigan",Michigan,company,"Construction, Oil & Gas Operations, Mining and Chemicals"
+238,Texas Roadhouse,"Louisville, Kentucky",Kentucky,company,Restaurants
+239,Hawaiian Airlines,"Honolulu, Hawaii",Hawaii,company,Transportation and Logistics
+240,Synchrony Financial,"Stamford, Connecticut",Connecticut,company,Banking and Financial Services
+241,Gulfstream Aerospace,"Savannah, Georgia",Georgia,company,Aerospace & Defense
+242,TIAA,"New York, New York",New York,company,Banking and Financial Services
+243,Palm Beach County,"West Palm Beach, Florida",Florida,company,Government Services
+244,TNG,"Smyrna, Georgia",Georgia,company,Retail and Wholesale
+245,WinCo Foods,"Boise, Idaho",Idaho,company,Retail and Wholesale
+246,JLL,"Chicago, Illinois",Illinois,company,Business Services & Supplies
+247,Sherwin-Williams,"Cleveland, Ohio",Ohio,company,"Construction, Oil & Gas Operations, Mining and Chemicals"
+248,Set and Service Resources,"Raleigh, North Carolina",North Carolina,company,Business Services & Supplies
+249,Tenneco,"Lake Forest, Illinois",Illinois,company,Automotive (Automotive and Suppliers)
+250,Deloitte,"New York, New York",New York,company,Professional Services
+251,DTE Energy,"Detroit, Michigan",Michigan,company,Utilities
+252,General Dynamics,"Falls Church, Virginia",Virginia,company,Aerospace & Defense
+253,IDEXX Laboratories,"Westbrook, Maine",Maine,company,Drugs & Biotechnology
+254,General Electric,"Boston, Massachusetts",Massachusetts,company,"Engineering, Manufacturing"
+255,PSEG (Public Service Enterprise Group),"Newark, New York",New York,company,Utilities
+256,Rich's Products,"Buffalo, New York",New York,company,"Food, Soft Beverages, Alcohol & Tobacco"
+257,NVIDIA,"Santa Clara, California",California,company,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+258,Visa,"San Francisco, California",California,company,Banking and Financial Services
+259,Prudential Financial,"Newark, New Jersey",New Jersey,company,Banking and Financial Services
+260,IKEA,"Conshohocken, Pennsylvania",Pennsylvania,company,Retail and Wholesale
+261,J. Crew Group,"New York, New York",New York,company,"Clothing, Shoes, Sports Equipment"
+262,TDS (Telephone and Data Systems),"Chicago, Illinois",Illinois,company,"Telecommunications Services, Cable Supplier"
+263,USI Insurance,"Valhalla, New York",New York,company,Insurance
+264,PRA Health Sciences,"Raleigh, North Carolina",North Carolina,company,Drugs & Biotechnology
+265,VF,"Greensboro, North Carolina",North Carolina,company,"Clothing, Shoes, Sports Equipment"
+266,Arvest Bank,"Lowell, Arkansas",Arkansas,company,Banking and Financial Services
+267,Barnes & Noble,"New York, New York",New York,company,Retail and Wholesale
+268,County of San Diego,"San Diego, California",California,company,Government Services
+269,Air Products & Chemicals,"Allentown, Pennsylvania",Pennsylvania,company,"Construction, Oil & Gas Operations, Mining and Chemicals"
+270,Under Armour,"Baltimore, Maryland",Maryland,company,"Clothing, Shoes, Sports Equipment"
+271,Xcel Energy,"Minneapolis, Minnesota",Minnesota,company,Utilities
+272,CSL,"King of Prussia, Pennsylvania",Pennsylvania,company,Drugs & Biotechnology
+273,General Services Administration,"Washington, District of Columbia",District of Columbia,company,Government Services
+274,Coca-Cola,"Atlanta, Georgia",Georgia,company,"Food, Soft Beverages, Alcohol & Tobacco"
+275,Hy-Vee,"West Des Moines, Iowa",Iowa,company,Retail and Wholesale
+276,NBCUniversal Media,"New York, New York",New York,company,Media & Advertising
+277,MITRE Corporation,"Bedford, Massachusetts",Massachusetts,company,Professional Services
+278,Nestle,"Glendale, California",California,company,"Food, Soft Beverages, Alcohol & Tobacco"
+279,Amtrak,"Washington, District of Columbia",District of Columbia,company,Transportation and Logistics
+280,United Technologies,"Farmington, Connecticut",Connecticut,company,"Engineering, Manufacturing"
+281,U.S. Department of Energy,"Washington, District of Columbia",District of Columbia,company,Government Services
+282,Hot Topic,"City of Industry, California",California,company,"Clothing, Shoes, Sports Equipment"
+283,Cerner,"North Kansas City, Missouri",Missouri,company,Health Care Equipment & Services
+284,Fresno County,"Fresno, California",California,company,Government Services
+285,Kiewit Corporation,"Omaha, Nebraska",Nebraska,company,"Construction, Oil & Gas Operations, Mining and Chemicals"
+286,Dell,"Hopkinton, Massachusetts",Massachusetts,company,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+287,H&M,"New York, New York",New York,company,"Clothing, Shoes, Sports Equipment"
+288,Lincoln Financial,"Radnor, Pennsylvania",Pennsylvania,company,Banking and Financial Services
+289,Federal Reserve System,"Washington, District of Columbia",District of Columbia,company,Government Services
+290,Stater Bros,"San Bernardino, California",California,company,Retail and Wholesale
+291,Mitsubishi,"Cypress, California",California,company,Automotive (Automotive and Suppliers)
+292,Averitt Express,"Cookeville, Tennessee",Tennessee,company,Transportation and Logistics
+293,Crete Carrier,"Lincoln, Nebraska",Nebraska,company,Transportation and Logistics
+294,Davey Tree Expert,"Kent, Ohio",Ohio,company,Business Services & Supplies
+295,City of Philadelphia,"Philadelphia, Pennsylvania",Pennsylvania,company,Government Services
+296,Altria Group,"Richmond, Virginia",Virginia,company,"Food, Soft Beverages, Alcohol & Tobacco"
+297,Southwire,"Carrollton, Georgia",Georgia,company,"Engineering, Manufacturing"
+298,BAE Systems,"Arlington, Washington",Washington,company,Aerospace & Defense
+299,Aerotek,"Hanover, Maryland",Maryland,company,Business Services & Supplies
+300,JM Smucker,"Orrville, Ohio",Ohio,company,"Food, Soft Beverages, Alcohol & Tobacco"
+301,Century 21 Real Estate,"Madison, New Jersey",New Jersey,company,Business Services & Supplies
+302,Praxair,"Danbury, Connecticut",Connecticut,company,"Construction, Oil & Gas Operations, Mining and Chemicals"
+303,Cargill,"Minneapolis, Minnesota",Minnesota,company,"Food, Soft Beverages, Alcohol & Tobacco"
+304,Parsons,"Pasadena, California",California,company,"Construction, Oil & Gas Operations, Mining and Chemicals"
+305,Parker-Hannifin,"Cleveland, Ohio",Ohio,company,"Engineering, Manufacturing"
+306,Independence Blue Cross,"Philadelphia, Pennsylvania",Pennsylvania,company,Insurance
+307,Government Employee's Insurance Company,"Chevy Chase, Maryland",Maryland,company,Insurance
+308,Royal Caribbean Cruises,"Miami, Florida",Florida,company,Travel & Leisure
+309,Builders FirstSource,"Dallas, Texas",Texas,company,"Engineering, Manufacturing"
+310,Eaton,"Cleveland, Ohio",Ohio,company,"Engineering, Manufacturing"
+311,CACI International,"Arlington, Virginia",Virginia,company,Aerospace & Defense
+312,Baxter International,"Deerfield, Illinois",Illinois,company,Drugs & Biotechnology
+313,ZF Group,"Northville, Michigan",Michigan,company,Automotive (Automotive and Suppliers)
+314,Paychex,"Rochester, New York",New York,company,Business Services & Supplies
+315,State of Michigan,"Lansing, Michigan",Michigan,company,Government Services
+316,ConocoPhillips,"Houston, Texas",Texas,company,"Construction, Oil & Gas Operations, Mining and Chemicals"
+317,Epic,"Verona, Wisconsin",Wisconsin,company,"IT, Internet, Software & Services"
+318,State of Minnesota,"Saint Paul, Minnesota",Minnesota,company,Government Services
+319,FedEx,"Memphis, Tennessee",Tennessee,company,Transportation and Logistics
+320,Aerojet Rocketdyne,"Rancho Cordova, California",California,company,Aerospace & Defense
+321,Phillips 66,"Wilmington, Delaware",Delaware,company,"Construction, Oil & Gas Operations, Mining and Chemicals"
+322,Novartis,"East Hanover, New Jersey",New Jersey,company,Drugs & Biotechnology
+323,Marsh & McLennan,"New York, New York",New York,company,Professional Services
+324,Amazon.com,"Seattle, Washington",Washington,company,Retail and Wholesale
+325,Lionbridge Technologies,"Waltham, Massachusetts",Massachusetts,company,Business Services & Supplies
+326,Cognizant,"Teaneck, New Jersey",New Jersey,company,"IT, Internet, Software & Services"
+327,Leidos,"Reston, Virginia",Virginia,company,"IT, Internet, Software & Services"
+328,Teledyne Technologies,"Thousand Oaks, California",California,company,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+329,East Penn Manufacturing,"Lyon Station, Pennsylvania",Pennsylvania,company,Automotive (Automotive and Suppliers)
+330,Ace Hardware,"Oak Brook, Illinois",Illinois,company,Retail and Wholesale
+331,Suddenlink,"St. Louis, Missouri",Missouri,company,"Telecommunications Services, Cable Supplier"
+332,Continental,"Fort Mill, South Carolina",South Carolina,company,Automotive (Automotive and Suppliers)
+333,PricewaterhouseCoopers,"New York, New York",New York,company,Professional Services
+334,Merck,"Kenilworth, New Jersey",New Jersey,company,Drugs & Biotechnology
+335,Nationwide Mutual Insurance,"Columbus, Ohio",Ohio,company,Insurance
+336,Samsung Electronics,"Ridgefield Park, New Jersey",New Jersey,company,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+337,State of Utah,"Salt Lake City, Utah",Utah,company,Government Services
+338,FIS,"Jacksonville, Florida",Florida,company,Banking and Financial Services
+339,Bristol-Myers Squibb,"New York, New York",New York,company,Drugs & Biotechnology
+340,Big Y World Class Market,"Springfield, Massachusetts",Massachusetts,company,Retail and Wholesale
+341,Turner Broadcasting System,"Atlanta, Georgia",Georgia,company,Media & Advertising
+342,Adidas,"Portland, Oregon",Oregon,company,"Clothing, Shoes, Sports Equipment"
+343,LVMH Moet Hennessy Louis Vuitton,NA,NA,company,"Clothing, Shoes, Sports Equipment"
+344,State Farm,"Bloomington, Illinois",Illinois,company,Insurance
+345,The Wonderful Company,"Los Angeles, California",California,company,"Food, Soft Beverages, Alcohol & Tobacco"
+346,BMW Group,"Woodcliff Lake, New Jersey",New Jersey,company,Automotive (Automotive and Suppliers)
+347,Progressive,"Mayfield Village, Ohio",Ohio,company,Insurance
+348,Sony,"New York, New York",New York,company,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+349,Pfizer,"New York, New York",New York,company,Drugs & Biotechnology
+350,Owens Corning,"Toledo, Ohio",Ohio,company,"Construction, Oil & Gas Operations, Mining and Chemicals"
+351,Humana,"Louisville, Kentucky",Kentucky,company,Insurance
+352,IBM,"Armonk, New York",New York,company,"IT, Internet, Software & Services"
+353,Agilent Technologies,"Santa Clara, California",California,company,Health Care Equipment & Services
+354,PPD,"Wilmington, North Carolina",North Carolina,company,Drugs & Biotechnology
+355,Professional Educational Services Group,"Caledonia, Michigan",Michigan,company,Business Services & Supplies
+356,Graybar Electric,"St. Louis, Missouri",Missouri,company,Business Services & Supplies
+357,County of Sacramento,"Sacramento, California",California,company,Government Services
+358,PayPal,"San Jose, California",California,company,"IT, Internet, Software & Services"
+359,Gordon Food Service,"Wyoming, Michigan",Michigan,company,Retail and Wholesale
+360,Cushman & Wakefield,"Chicago, Illinois",Illinois,company,Business Services & Supplies
+361,Jason's Deli,"Beaumont, Texas",Texas,company,Restaurants
+362,Hunter Douglas,"Pearl River, New York",New York,company,"Engineering, Manufacturing"
+363,Los Angeles County Sheriff's Department,"Los Angeles, California",California,company,Government Services
+364,First American,"Santa Ana, California",California,company,Insurance
+365,Wynn Resorts,"Las Vegas, Nevada",Nevada,company,Travel & Leisure
+366,Archer Daniels Midland,"Chicago, Illinois",Illinois,company,"Food, Soft Beverages, Alcohol & Tobacco"
+367,Ferguson Enterprises,"Newport News, Virginia",Virginia,company,Retail and Wholesale
+368,"NVR (Ryan Homes, NVHomes, FoxRidge Homes, Heartland Homes)","Reston, Virginia",Virginia,company,"Construction, Oil & Gas Operations, Mining and Chemicals"
+369,SCANA,"Cayce, South Carolina",South Carolina,company,Utilities
+370,The Hartford,"Hartford, Connecticut",Connecticut,company,Insurance
+371,Salt Lake County,"Salt Lake City, Utah",Utah,company,Government Services
+372,Ryder System,"Miami, Florida",Florida,company,Transportation and Logistics
+373,Globalfoundries,"Santa Clara, California",California,company,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+374,Carnival,"Miami, Florida",Florida,company,Travel & Leisure
+375,Flowserve,"Irving, Texas",Texas,company,"Engineering, Manufacturing"
+376,R+L Carriers,"Ocala, Florida",Florida,company,Transportation and Logistics
+377,Sikorsky,"Stratford, Connecticut",Connecticut,company,Aerospace & Defense
+378,State of Indiana,"Indianapolis, Indiana",Indiana,company,Government Services
+379,Allianz,"Chicago, Illinois",Illinois,company,Insurance
+380,Shoe Carnival,"Evansville, Indiana",Indiana,company,"Clothing, Shoes, Sports Equipment"
+381,BorgWarner,"Auburn Hills, Michigan",Michigan,company,Automotive (Automotive and Suppliers)
+382,Union Pacific,"Omaha, Nebraska",Nebraska,company,Transportation and Logistics
+383,Capital One Financial,"McLean, Virginia",Virginia,company,Banking and Financial Services
+384,Nissan Motor,"Smyrna, Tennessee",Tennessee,company,Automotive (Automotive and Suppliers)
+385,CBS,"New York, New York",New York,company,Media & Advertising
+386,JPMorgan Chase,"New York, New York",New York,company,Banking and Financial Services
+387,CenterPoint Energy,"Houston, Texas",Texas,company,Utilities
+388,ARRIS,"Suwanee, Georgia",Georgia,company,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+389,Raley's,"Sacramento, California",California,company,Retail and Wholesale
+390,Iron Mountain,"Boston, Massachusetts",Massachusetts,company,Business Services & Supplies
+391,Intercontinental Hotels Group,"Salt Lake City, Utah",Utah,company,Travel & Leisure
+392,Battelle Memorial Institute,"Columbus, Ohio",Ohio,company,Professional Services
+393,The Estée Lauder Companies,"New York, New York",New York,company,Packaged Goods
+394,Fiat Chrysler Automobiles,"Auburn Hills, Michigan",Michigan,company,Automotive (Automotive and Suppliers)
+395,Whirlpool,"Benton Harbor, Michigan",Michigan,company,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+396,Anheuser-Busch InBev,"St. Louis, Missouri",Missouri,company,"Food, Soft Beverages, Alcohol & Tobacco"
+397,Wolters Kluwer,Alphen aan den Rijn,NA,company,Professional Services
+398,Bashas',"Chandler, Arizona",Arizona,company,Retail and Wholesale
+399,McCormick,"Sparks, Maryland",Maryland,company,"Food, Soft Beverages, Alcohol & Tobacco"
+400,Fred Meyer,"Portland, Oregon",Oregon,company,Retail and Wholesale
+401,Symantec,"Mountain View, California",California,company,"IT, Internet, Software & Services"
+402,CSRA,"Falls Church, Virginia",Virginia,company,Business Services & Supplies
+403,Pella,"Pella, Iowa",Iowa,company,"Construction, Oil & Gas Operations, Mining and Chemicals"
+404,MassMutual,"Springfield, Massachusetts",Massachusetts,company,Insurance
+405,Mohawk Industries,"Calhoun, Georgia",Georgia,company,"Engineering, Manufacturing"
+406,PAE,"Arlington, Virginia",Virginia,company,Business Services & Supplies
+407,Deere & Company,"Moline, Illinois",Illinois,company,Automotive (Automotive and Suppliers)
+408,National Grid USA,"Waltham, Massachusetts",Massachusetts,company,Utilities
+409,Department of Commerce,"Washington, District of Columbia",District of Columbia,company,Government Services
+410,Voya Financial,"New York, New York",New York,company,Banking and Financial Services
+411,NTT Data,"Plano, Texas",Texas,company,"IT, Internet, Software & Services"
+412,PepsiCo,"Purchase, New York",New York,company,"Food, Soft Beverages, Alcohol & Tobacco"
+413,Pima County,"Tucson, Arizona",Arizona,company,Government Services
+414,United Rentals,"Stamford, Connecticut",Connecticut,company,Business Services & Supplies
+415,Anthropologie,"Kinzers, Pennsylvania",Pennsylvania,company,"Clothing, Shoes, Sports Equipment"
+416,BRAVO BRIO Restaurant Group,"Columbus, Ohio",Ohio,company,Restaurants
+417,United Parcel Service,"Atlanta, Georgia",Georgia,company,Transportation and Logistics
+418,Travelers,"New York, New York",New York,company,Insurance
+419,Nucor,"Charlotte, North Carolina",North Carolina,company,"Engineering, Manufacturing"
+420,Microchip Technology,"Chandler, Arizona",Arizona,company,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+421,FirstEnergy,"Akron, Ohio",Ohio,company,Utilities
+422,Faurecia,"Auburn Hills, Michigan",Michigan,company,Automotive (Automotive and Suppliers)
+423,KPMG,"New York, New York",New York,company,Professional Services
+424,The Cheesecake Factory,"Calabasas Hills, California",California,company,Restaurants
+425,Bemis,"Neenah, Wisconsin",Wisconsin,company,"Engineering, Manufacturing"
+426,Topgolf,"Dallas, Texas",Texas,company,Travel & Leisure
+427,Chuy's,"Austin, Texas",Texas,company,Restaurants
+428,LensCrafters,"Mason, Ohio",Ohio,company,"Clothing, Shoes, Sports Equipment"
+429,Micron Technology,"Boise, Idaho",Idaho,company,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+430,TSYS,"Columbus, Georgia",Georgia,company,Business Services & Supplies
+431,Change Healthcare,"Nashville, Tennessee",Tennessee,company,Health Care Equipment & Services
+432,Chick-fil-A,"Atlanta, Georgia",Georgia,company,Restaurants
+433,Ernst & Young,"New York, New York",New York,company,Professional Services
+434,Snyder's-Lance,"Charlotte, North Carolina",North Carolina,company,"Food, Soft Beverages, Alcohol & Tobacco"
+435,PG&E (Pacific Gas and Electric),"San Francisco, California",California,company,Utilities
+436,Berkshire Hathaway Energy,"Des Moines, Iowa",Iowa,company,Utilities
+437,Kelly Services,"Troy, Michigan",Michigan,company,Business Services & Supplies
+438,Gildan,NA,NA,company,"Clothing, Shoes, Sports Equipment"
+439,Bosch,Stuttgart,NA,company,"Engineering, Manufacturing"
+440,Shaw Industries,"Dalton, Georgia",Georgia,company,"Engineering, Manufacturing"
+441,TJX Companies,"Framingham, Massachusetts",Massachusetts,company,"Clothing, Shoes, Sports Equipment"
+442,Mary Kay,"Addison, Texas",Texas,company,Packaged Goods
+443,Henkel,"Rocky Hill, Connecticut",Connecticut,company,Packaged Goods
+444,Stantec,Edmonton,NA,company,Professional Services
+445,GlaxoSmithKline,"Philadelphia, Pennsylvania",Pennsylvania,company,Drugs & Biotechnology
+446,Masco,"Livonia, Michigan",Michigan,company,"Engineering, Manufacturing"
+447,Colliers International,"Seattle, Washington",Washington,company,Business Services & Supplies
+448,Thermo Fisher Scientific,"Waltham, Massachusetts",Massachusetts,company,Drugs & Biotechnology
+449,Booz Allen Hamilton,"McLean, Virginia",Virginia,company,Professional Services
+450,McLane Company,"Temple, Texas",Texas,company,Transportation and Logistics
+451,Novo Nordisk,"Plainsboro, New Jersey",New Jersey,company,Drugs & Biotechnology
+452,DSW Designer Shoe Warehouse,"Columbus, Ohio",Ohio,company,"Clothing, Shoes, Sports Equipment"
+453,Polaris Industries,"Minneapolis, Minnesota",Minnesota,company,Automotive (Automotive and Suppliers)
+454,Medline Industries,"Northfield, Illinois",Illinois,company,Health Care Equipment & Services
+455,Subaru-Indiana Automotive,"Lafayette, Indiana",Indiana,company,Automotive (Automotive and Suppliers)
+456,Ball,"Broomfield, Colorado",Colorado,company,Aerospace & Defense
+457,Las Vegas Sands,"Las Vegas, Nevada",Nevada,company,Travel & Leisure
+458,American Axle & Manufacturing,"Detroit, Michigan",Michigan,company,Automotive (Automotive and Suppliers)
+459,New Jersey Transit,"Newark, New Jersey",New Jersey,company,Transportation and Logistics
+460,Henry Schein,"Melville, New York",New York,company,Health Care Equipment & Services
+461,Cintas,"Cincinnati, Ohio",Ohio,company,Business Services & Supplies
+462,Automatic Data Processing,"Roseland, New Jersey",New Jersey,company,Business Services & Supplies
+463,Regal Entertainment Group,"Knoxville, Tennessee",Tennessee,company,Travel & Leisure
+464,Ascena Retail Group,"Mahwah, New Jersey",New Jersey,company,"Clothing, Shoes, Sports Equipment"
+465,BlueCross & BlueShield of South Carolina,"Columbia, South Carolina",South Carolina,company,Insurance
+466,Philips,"Andover, Massachusetts",Massachusetts,company,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+467,Academy Sports + Outdoors,"Katy, Texas",Texas,company,"Clothing, Shoes, Sports Equipment"
+468,Steelcase,"Grand Rapids, Michigan",Michigan,company,"Engineering, Manufacturing"
+469,US Foods,"Rosemont, Illinois",Illinois,company,"Food, Soft Beverages, Alcohol & Tobacco"
+470,Match Marketing Group,"Norwalk, Connecticut",Connecticut,company,Media & Advertising
+471,Illinois Tool Works,"Glenview, Illinois",Illinois,company,"Engineering, Manufacturing"
+472,Spirit Aero Systems,"Wichita, Kansas",Kansas,company,Aerospace & Defense
+473,RSM US,"Chicago, Illinois",Illinois,company,Professional Services
+474,Entergy,"New Orleans, Louisiana",Louisiana,company,Utilities
+475,Estes Express Line,"Richmond, Virginia",Virginia,company,Transportation and Logistics
+476,Bombardier,Montr&#233;al,NA,company,Aerospace & Defense
+477,PSAV,"Schiller Park, Illinois",Illinois,company,Business Services & Supplies
+478,Spirit Halloween,"Egg Harbor Township, New Jersey",New Jersey,company,"Clothing, Shoes, Sports Equipment"
+479,Mattel,"El Segundo, California",California,company,Packaged Goods
+480,Hershey Entertainment and Resorts,"Hershey, Pennsylvania",Pennsylvania,company,Travel & Leisure
+481,SeaWorld Parks & Entertainment,"Orlando, Florida",Florida,company,Travel & Leisure
+482,Red Robin Gourmet Burgers,"Village, Colorado",Colorado,company,Restaurants
+483,Amway,"Ada, Michigan",Michigan,company,Packaged Goods
+484,Dairy Farmers of America,"Kansas City, Kansas",Kansas,company,"Food, Soft Beverages, Alcohol & Tobacco"
+485,Dr Pepper Snapple Group,"Plano, Texas",Texas,company,"Food, Soft Beverages, Alcohol & Tobacco"
+486,Kraft Heinz Company,"Chicago, Illinois",Illinois,company,"Food, Soft Beverages, Alcohol & Tobacco"
+487,Southeastern Freight Lines,"Lexington, South Carolina",South Carolina,company,Transportation and Logistics
+488,Liberty Mutual Insurance,"Boston, Massachusetts",Massachusetts,company,Insurance
+489,J.B. Hunt Transport Services,"Lowell, Arkansas",Arkansas,company,Transportation and Logistics
+490,American Greetings,"Cleveland, Ohio",Ohio,company,Packaged Goods
+491,BlueCross & BlueShield of Tennessee,"Chattanooga, Tennessee",Tennessee,company,Insurance
+492,The Coffee Bean & Tea Leaf,"Los Angeles, California",California,company,"Food, Soft Beverages, Alcohol & Tobacco"
+493,Vail Resorts,"Broomfield, Colorado",Colorado,company,Travel & Leisure
+494,Kuehne + Nagel,Schindellegi,NA,company,Transportation and Logistics
+495,Textron,"Providence, Rhode Island",Rhode Island,company,Aerospace & Defense
+496,Five Guys Burgers and Fries,"Lorton, Virginia",Virginia,company,Restaurants
+497,Carlson,"Hopkins, Minnesota",Minnesota,company,Travel & Leisure
+498,Puma,"Westford, Massachusetts",Massachusetts,company,"Clothing, Shoes, Sports Equipment"
+499,Cooper Tire & Rubber,"Findlay, Ohio",Ohio,company,Automotive (Automotive and Suppliers)
+500,Quest Diagnostics,"Secaucus, New Jersey",New Jersey,company,Health Care Equipment & Services
